@@ -15,7 +15,7 @@ export function LandingHero() {
         <Group justify="space-between">
 
           <div>
-            <Text className={classes.title}>DuckVOD</Text>
+            <Text className={classes.title}>DuckVOD.net</Text>
             <Title c={theme.colors.gray[3]} mt={5} order={3}>Eine Plattform zum Archivieren von Livestreams und Videos im Teich.</Title>
             <Flex mt={10}>
               <Button
